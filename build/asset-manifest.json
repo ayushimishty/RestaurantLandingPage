@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b31cfebe.css",
+    "main.js": "/static/js/main.57750bd4.js",
+    "static/media/Pngtree-delicious-food.png": "/static/media/Pngtree-delicious-food.98420316cc59da2c1492.png",
+    "static/media/1pngtree—lettuce.png": "/static/media/1pngtree—lettuce.3ba460f66a6819e71bb3.png",
+    "static/media/the-wonton.png": "/static/media/the-wonton.f3586c6a8c3e607d509e.png",
+    "static/media/2ham-sandwich.png": "/static/media/2ham-sandwich.6d2f8f36253c024b3fd5.png",
+    "static/media/ham-sandwich.png": "/static/media/ham-sandwich.9a09c8adc71332567e3d.png",
+    "static/media/4ham-sandwich.png": "/static/media/4ham-sandwich.b644daf3452dacb8bba9.png",
+    "static/media/1ham-sandwich.png": "/static/media/1ham-sandwich.59564fffaa7ba6f9e505.png",
+    "static/media/5ham-sandwich.png": "/static/media/5ham-sandwich.3f9a224dd42cbd3c1f7c.png",
+    "static/media/3ham-sandwich.png": "/static/media/3ham-sandwich.93d5665be661981a0dc8.png",
+    "static/media/dots-bg1.png": "/static/media/dots-bg1.81ff94c299b996db7ba6.png",
+    "index.html": "/index.html",
+    "main.b31cfebe.css.map": "/static/css/main.b31cfebe.css.map",
+    "main.57750bd4.js.map": "/static/js/main.57750bd4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b31cfebe.css",
+    "static/js/main.57750bd4.js"
+  ]
+}
