@@ -1,0 +1,15 @@
+.cards{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 80%;
+    margin: 40px auto 0px;
+}
+
+.menuHeading{
+    font-size: 40px;
+    text-transform: uppercase;
+    margin: auto;
+    width: max-content;
+    font-family: 'Dancing Script', cursive;
+}
